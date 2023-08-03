@@ -1,0 +1,16 @@
+body {
+    font: 1rem/1.5 var(--bs-font-sans-serif);
+  }
+  a {
+    color: var(--bs-blue);
+  }
+.add {
+text-align-last: right;
+}
+.mhs{
+    color: white;
+}
+
+.tmbl{
+    background-color: rgb(2, 88, 2);
+}
