@@ -11,7 +11,11 @@
                 </span>
                 <ul class="list-unstyled dropdown_nav">
                     <!-- KOMPONEN YANG PERLU DI TAMBAH -->
-                    <li class="nav-item"><a href="tagihan_contoh.php" class="nav-link">Contoh</a></li>
+                    <li class="nav-item"><a href="tagihan_Kelas.php" class="nav-link">kelas</a></li>
+                    <li class="nav-item"><a href="tagihan_Transaksi.php" class="nav-link">transaksi</a></li>
+                    <li class="nav-item"><a href="tagihan_Report.php" class="nav-link">Report</a></li>
+                    <li class="nav-item"><a href="tagihan_Utility.php" class="nav-link">Utility</a></li>
+                    <li class="nav-item"><a href="tagihan_Logout.php" class="nav-link">Logout</a></li>
                 </ul>
                 <!-- END BAGIAN BIMA -->
             </li>
