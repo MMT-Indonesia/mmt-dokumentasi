@@ -24,7 +24,12 @@
                 </span>
                 <ul class="list-unstyled dropdown_nav">
                     <!-- KOMPONEN YANG PERLU DI TAMBAH -->
-                    <li class="nav-item"><a href="sias_contoh.php" class="nav-link">Contoh</a></li>
+                    <li class="nav-item"><a href="sias_data_awal.php" class="nav-link">Data Awal</a></li>
+                    <li class="nav-item"><a href="sias_saldo_awal.php" class="nav-link">Saldo Awal</a></li>
+                    <li class="nav-item"><a href="sias_transaksi.php" class="nav-link">Transaksi</a></li>
+                    <li class="nav-item"><a href="sias_report.php" class="nav-link">Report</a></li>
+                    <li class="nav-item"><a href="sias_utility.php" class="nav-link">Utility</a></li>
+                    <li class="nav-item"><a href="sias_logout.php" class="nav-link">Logout</a></li>
                 </ul>
             </li>
             <!-- END BAGIAN NAUVAL -->

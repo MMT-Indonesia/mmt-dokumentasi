@@ -8,8 +8,10 @@
             </div>
             <div class="col-lg-10 col-md-10">
                 <!-- KOMPONEN YANG PERLU DI TAMBAH ATAU UBAH -->
-
-                <h3 class="text-center">CONTOH MODUL SIAS.</h3>
+<style>
+    
+</style>
+                <!--<br><img src="img/bocahlogout.png" class="img-fluid d-block m-auto" width="500px" height="500px">-->
 
                 <!-- END KOMPONEN YANG PERLU DI TAMBAH ATAU UBAH -->
             </div>
